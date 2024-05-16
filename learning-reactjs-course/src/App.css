@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.cardSection {
+  padding: 30px;
+  background-color: #61dafb;
+}
+.cardSection button {
+  background-color: #008000;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 20px;
+  border-radius: 5px;
+  padding: 12px;
+  cursor: pointer;
+  border: 1px solid #fff;
+}
+.cardItem {
+  margin-top: 30px;
+  background-color: #800080;
+  color: #fff;
+  width: 36%;
+  margin: 30px auto;
+}
